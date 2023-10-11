@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <array name="opcao">
+        <item>Excelente - 10% </item>
+        <item>Otimo - 8% </item>
+        <item>Bom - 5% </item>
+        <item>Ruim - 2% </item>
+    </array>
+
+
+</resources>
